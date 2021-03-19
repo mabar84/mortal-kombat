@@ -1,8 +1,8 @@
 # MortalKombat 2021
 ## Выполнил Mabaron
 ### Технологии:
-HTML
-CSS
-Normalize
-Fancybox (jQuery)
-jQuery
+- HTML
+- CSS
+- Normalize
+- Fancybox (jQuery)
+- jQuery
